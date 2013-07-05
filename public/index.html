@@ -39,16 +39,8 @@
     </head>
     <body>
 		<h1>TechRadar Bingo</h1>
-        <!-- Add your site or application content here -->
-
-		<audio id="demo" src="data/bingo.mp3"></audio>
-		<div>
-		  <button onclick="document.getElementById('demo').play()">Play the Audio</button>
-		  <button onclick="document.getElementById('demo').pause()">Pause the Audio</button>
-		  <button onclick="document.getElementById('demo').volume+=0.1">Increase Volume</button>
-		  <button onclick="document.getElementById('demo').volume-=0.1">Decrease Volume</button>
-		</div>
-
+		<button id="play">Play</button>
+		<audio id="bingo" src="data/bingo.mp3"></audio>
         <script src="js/vendor/zepto.min.js"></script>
         <script src="js/helper.js"></script>
 

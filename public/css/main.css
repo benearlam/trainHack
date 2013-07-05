@@ -67,7 +67,10 @@ textarea {
 
 
 
-
+.grid {
+	
+	
+}
 
 
 
@@ -88,7 +91,7 @@ textarea {
 
 /* Prevent callout */
 
-.nocallout {
+* {
     -webkit-touch-callout: none;
 }
 
