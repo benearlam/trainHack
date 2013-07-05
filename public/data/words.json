@@ -1,103 +1,105 @@
-Aggregates as documents
-Analyzing test runs
-Apache Pig
-Automated deployment pipeline
-Azure
-Backbone.js
-Big enterprise solutions
-BigQuery
-Blue-green deployment
-Browser-based templating
-Calatrava
-Capturing client-side JavaScript errors
-Clojure
-ClojureScript
-Co-location by telepresence
-CoffeeScript
-Collaborative analytics and data science
-Component-based frameworks
-Continuous delivery for mobile devices
-Continuous integration in the cloud
-Couchbase
-CSS frameworks
-D3
-Database migrations for NoSQL
-Datomic
-Development environments in the cloud
-Dropwizard
-Edge Side Includes for page composition
-Elastic Search
-Embedded servlet containers
-Exhaustive browser based testing
-Faraday
-Focus on mean time to recovery
-Frank
-Gatling
-Gradle
-Graphite
-Gremlin
-Guerrilla testing
-Hadoop 2.0
-Handwritten CSS
-Heavyweight test tools
-HTML5 for offline applications
-HTML5 storage instead of cookies
-Hystrix
-Icon fonts
-Immutable servers
-In-process acceptance testing
-Jasmine paired with Node.js
-JavaScript as a platform
-JavaScript MV* frameworks
-Jekyll
-Light Table
-Locust
-Logic in stored procedures
-Logs as data
-Logstash & Graylog2
-Lua
-Machine image as a build artifact
-Maven
-Micro-services
-Minimizing application configuration
-Mobile first
-Mobile testing on mobile networks
-MongoDB
-Nancy
-Neo4J
-Node.js
-NuGet
-Octopus
-OpenStack
-OWIN
-Performance testing as a first-class citizen
-Perimeterless enterprise
-PhantomJS
-PhoneGap/Apache Cordova
-Play Framework 2
-PostgreSQL for NoSQL
-Promises for asynchronous programming
-PSake
-Puppet-librarian and Chef-librarian
-Rackspace Cloud
-Reactive Extensions for .Net
-Redis
-Require.js & NPM
-Responsive web design
-Riak
-Riemann
-RubyMotion
-Scala
-Scratch, Alice, and Kodu
-Semantic monitoring
-Sinatra
-Singleton infrastructure
-SMS and USSD as a UI
-Snowplow Analytics
-TestFlight & HockeyApp
-Twitter Bootstrap
-UIAutomator
-Vumi
-Windows infrastructure automation
-WS-*
-Zepto.js
+var words = [
+"Aggregates as documents",
+"Analyzing test runs",
+"Apache Pig",
+"Automated deployment pipeline",
+"Azure",
+"Backbone.js",
+"Big enterprise solutions",
+"BigQuery",
+"Blue-green deployment",
+"Browser-based templating",
+"Calatrava",
+"Capturing client-side JavaScript errors",
+"Clojure",
+"ClojureScript",
+"Co-location by telepresence",
+"CoffeeScript",
+"Collaborative analytics and data science",
+"Component-based frameworks",
+"Continuous delivery for mobile devices",
+"Continuous integration in the cloud",
+"Couchbase",
+"CSS frameworks",
+"D3",
+"Database migrations for NoSQL",
+"Datomic",
+"Development environments in the cloud",
+"Dropwizard",
+"Edge Side Includes for page composition",
+"Elastic Search",
+"Embedded servlet containers",
+"Exhaustive browser based testing",
+"Faraday",
+"Focus on mean time to recovery",
+"Frank",
+"Gatling",
+"Gradle",
+"Graphite",
+"Gremlin",
+"Guerrilla testing",
+"Hadoop 2.0",
+"Handwritten CSS",
+"Heavyweight test tools",
+"HTML5 for offline applications",
+"HTML5 storage instead of cookies",
+"Hystrix",
+"Icon fonts",
+"Immutable servers",
+"In-process acceptance testing",
+"Jasmine paired with Node.js",
+"JavaScript as a platform",
+"JavaScript MV* frameworks",
+"Jekyll",
+"Light Table",
+"Locust",
+"Logic in stored procedures",
+"Logs as data",
+"Logstash & Graylog2",
+"Lua",
+"Machine image as a build artifact",
+"Maven",
+"Micro-services",
+"Minimizing application configuration",
+"Mobile first",
+"Mobile testing on mobile networks",
+"MongoDB",
+"Nancy",
+"Neo4J",
+"Node.js",
+"NuGet",
+"Octopus",
+"OpenStack",
+"OWIN",
+"Performance testing as a first-class citizen",
+"Perimeterless enterprise",
+"PhantomJS",
+"PhoneGap/Apache Cordova",
+"Play Framework 2",
+"PostgreSQL for NoSQL",
+"Promises for asynchronous programming",
+"PSake",
+"Puppet-librarian and Chef-librarian",
+"Rackspace Cloud",
+"Reactive Extensions for .Net",
+"Redis",
+"Require.js & NPM",
+"Responsive web design",
+"Riak",
+"Riemann",
+"RubyMotion",
+"Scala",
+"Scratch, Alice, and Kodu",
+"Semantic monitoring",
+"Sinatra",
+"Singleton infrastructure",
+"SMS and USSD as a UI",
+"Snowplow Analytics",
+"TestFlight & HockeyApp",
+"Twitter Bootstrap",
+"UIAutomator",
+"Vumi",
+"Windows infrastructure automation",
+"WS-*",
+"Zepto.js"
+]
