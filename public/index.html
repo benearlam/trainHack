@@ -22,24 +22,32 @@
 
 
         <!-- For iOS web apps. Delete if not needed. https://github.com/h5bp/mobile-boilerplate/issues/94 -->
-        <!--
+
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="">
-        -->
+        
 
         <!-- This script prevents links from opening in Mobile Safari. https://gist.github.com/1042026 -->
-        <!--
+
         <script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
-        -->
+
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
-		<h1>Hello World</h1>
+		<h1>TechRadar Bingo</h1>
         <!-- Add your site or application content here -->
+
+		<audio id="demo" src="data/bingo.mp3"></audio>
+		<div>
+		  <button onclick="document.getElementById('demo').play()">Play the Audio</button>
+		  <button onclick="document.getElementById('demo').pause()">Pause the Audio</button>
+		  <button onclick="document.getElementById('demo').volume+=0.1">Increase Volume</button>
+		  <button onclick="document.getElementById('demo').volume-=0.1">Decrease Volume</button>
+		</div>
 
         <script src="js/vendor/zepto.min.js"></script>
         <script src="js/helper.js"></script>
